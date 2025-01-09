@@ -1,7 +1,7 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Analytics from './components/Analytics';
-import Chatbot from './components/Chatbot';
+import Navbar from './components/NavBar.jsx';
+import Analytics from './components/Analytics.jsx';
+import Chatbot from './components/Chatbot.jsx';
 
 function App() {
   return (
